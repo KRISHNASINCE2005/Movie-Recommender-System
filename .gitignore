@@ -1,0 +1,16 @@
+# Ignore data files
+*.csv
+*.pkl
+
+# Ignore the python folder
+python/
+
+# But allow Jupyter notebooks inside python/
+!python/*.ipynb
+
+# Ignore virtual environment folder
+krishna/
+
+
+*.pyc
+__pycache__/
