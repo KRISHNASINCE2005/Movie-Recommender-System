@@ -1,6 +1,5 @@
 # Ignore data files
 *.csv
-*.pkl
 
 # Ignore the python folder
 python/
